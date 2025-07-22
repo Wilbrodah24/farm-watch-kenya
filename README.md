@@ -186,7 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Website**: [AgriMarket Platform](https://lovable.dev/projects/48d1f3de-32ef-4790-82da-d09f75efdff4)
 - **Email**: support@agrimarket.africa
 - **Twitter**: @AgriMarketAfrica
-- **WhatsApp**: +254-XXX-XXXXXX
+- **WhatsApp**: +254 748 977 859
 
 ---
 
@@ -204,14 +204,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/48d1f3de-32ef-4790-82da-d09f75efdff4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
